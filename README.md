@@ -1,21 +1,11 @@
 
 <p align="center">
-
-<h2 align="center">
- 
- 👋 Hi, I’m khalid kifayat
-
-</h2>
- 
- </p>
-
-<p align="center">
  
  
  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
  
- <h2 align="center">Welcome To My GitHub Account</h2>
+ <h2 align="center">👋 Hi, I’m khalid kifayat</h2>
 </p>
 
 
