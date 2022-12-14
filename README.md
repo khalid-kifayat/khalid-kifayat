@@ -1,7 +1,6 @@
 
 <p align="center">
  
- <img src="https://bit.ly/3YpAmqI"> 
  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
  
