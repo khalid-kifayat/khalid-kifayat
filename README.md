@@ -63,6 +63,7 @@ OR send a connections request on LinkedIN Profile to chat about your project...
 <br >
 <br />
 
+### DevOps
 
 <p align="center">
   <a href="https://python.org/" target="_blank" >
@@ -87,7 +88,7 @@ OR send a connections request on LinkedIN Profile to chat about your project...
   </a>
  </p>
   
-### DevOps
+### Cloud
   
  <p align="center">
   <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
@@ -98,7 +99,7 @@ OR send a connections request on LinkedIN Profile to chat about your project...
   </a>
  </p>
   
-### Databases and Monitoring
+### Monitoring & DB
   
   <p align="center">
   <a href="https://prometheus.io/" target="_blank" >
@@ -133,5 +134,6 @@ OR send a connections request on LinkedIN Profile to chat about your project...
 - ⚡️ My youtube channel - DevOps with KK - with some of realtime HandsOn Labs. Coudnt make new stuff with time shortage, but will.
 - ❓  You can Ask me about DevOps, Docker, Kubernetes, Ansible, Terraform, Jenkins, Git, HTML, CSS, JS.
 
-                                                                                               
+<p align="center">                                                                                              
 <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/04/21121916/gif-integration-deployment-min.gif"></img>
+</p>
