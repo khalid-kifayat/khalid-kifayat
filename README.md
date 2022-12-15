@@ -64,7 +64,7 @@ OR send a connections request on LinkedIN Profile to chat about your project...
 <br />
 
 
-<p float="left">
+<p>
   <a href="https://python.org/" target="_blank" >
     <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
   </a>
@@ -89,7 +89,7 @@ OR send a connections request on LinkedIN Profile to chat about your project...
   
 ### DevOps
   
- <p float="left">
+ <p>
   <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
   </a> 
