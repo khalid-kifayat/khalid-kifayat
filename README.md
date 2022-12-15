@@ -100,6 +100,7 @@ OR send a connections request on LinkedIN Profile to chat about your project...
   
 ### Databases and Monitoring
   
+  <p align="center">
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
   </a>
