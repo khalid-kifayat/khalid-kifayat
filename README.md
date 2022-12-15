@@ -2,7 +2,7 @@
 <p align="center">
  <img src="https://user-images.githubusercontent.com/78950897/207810282-7e969b54-a869-4a61-8a6a-37a90187f581.jpg" alt "Hi">
 
- <h2 align="center">👋 Hi, I’m khalid kifayat</h2>
+ <h2 align="center">👋 Hi, I’m khalid kifayat & Welcome to my Github Account</h2>
 </p>
 
 
