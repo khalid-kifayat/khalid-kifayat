@@ -1,6 +1,6 @@
 
 <p align="center">
- https://user-images.githubusercontent.com/78950897/207810282-7e969b54-a869-4a61-8a6a-37a90187f581.jpg
+ <img src="https://user-images.githubusercontent.com/78950897/207810282-7e969b54-a869-4a61-8a6a-37a90187f581.jpg" alt "Hi">
 
  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
