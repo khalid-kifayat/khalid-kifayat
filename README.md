@@ -39,7 +39,7 @@
 
 **About My Introduction:**
 
-Hi, I am Khalid Kifayat, a DevOps Enthusiast, passionate about developing and deploying production-ready Applications while working with teams of Devops Experts. Proficiency in DevOps, Cloud & SDLC including analysis, design, coding, scripting, testing, automation, version control, documentation, support.<br>
+I am an DevOps Enthusiast, passionate about developing and deploying production-ready Applications while working with teams of Devops Experts. Proficiency in DevOps, Cloud & SDLC including analysis, design, coding, scripting, testing, automation, version control, documentation, support.<br>
 • Containerization: Docker.<br>
 • Container Orchestration: Kubernetes.<br>
 • Configuration Management: Ansible.<br>
