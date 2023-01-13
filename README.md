@@ -116,12 +116,12 @@ OR send a connections request on LinkedIN Profile to chat about your project...
 ### Cloud
   
  <p align="center">
-  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="120" />
-  </a> 
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="120" />
   </a>
+  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="120" />
+  </a> 
  </p>
   
 ### Monitoring & DB
@@ -145,11 +145,11 @@ OR send a connections request on LinkedIN Profile to chat about your project...
 
 <p align="center">
 
-<h2 align="center">
+<h1 align="center">
  
  👋 Talking about Prof-Stuff
 
-</h2>
+</h1>
  
  </p>
 
