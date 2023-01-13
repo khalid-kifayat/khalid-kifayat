@@ -64,6 +64,33 @@ OR send a connections request on LinkedIN Profile to chat about your project...
 
 ### DevOps
 
+<a href="https://www.linux.org/" target="_blank" >
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="90" />
+  </a>
+   <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"  height="90" />
+  </a>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
+  </a>
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
+  </a>
+   </a>
+    <a href="https://www.jenkins.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="90" />
+  </a>
+  <a href="https://www.ansible.com/" target="_blank" >
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="90" />
+  </a>
+<br>
 <p align="center">
   <a href="https://python.org/" target="_blank" >
     <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
@@ -82,7 +109,6 @@ OR send a connections request on LinkedIN Profile to chat about your project...
   <a href="https://grpc.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
   </a>
- <br>
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
   </a>
