@@ -142,7 +142,7 @@ OR send a connections request on LinkedIN Profile to chat about your project...
   </a>
   
 </p>
-
+</div>
 <p align="center">
 
 <h1 align="center">
