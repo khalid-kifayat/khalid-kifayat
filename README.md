@@ -64,6 +64,7 @@ OR send a connections request on LinkedIN Profile to chat about your project...
 
 ### DevOps
 
+<p align="center">
 <a href="https://www.linux.org/" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="90" />
   </a>
@@ -87,6 +88,7 @@ OR send a connections request on LinkedIN Profile to chat about your project...
   <a href="https://www.ansible.com/" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="90" />
   </a>
+ </p> 
 <br>
 <p align="center">
   <a href="https://python.org/" target="_blank" >
