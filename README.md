@@ -62,16 +62,10 @@ I am an DevOps Enthusiast, passionate about developing and deploying production-
 • OS Flavours: RHEL, CENTOS, UBUNTU.<br>
 
 Inbox me at <a href="https://www.linkedin.com/in/khalid-kifayat/">
-<img width="50px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
-</a>
-
-OR Write to me at khalid.kifayat@gmail.com<br>
-OR send a connections request on LinkedIN Profile to chat about your project...
-
+<img width="20px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
+</a> OR Write to me at khalid.kifayat@gmail.com<br>
 <br >
 <br />
-
-## <📈 GitHub Stats >  
 
 <p align="center">
 	
