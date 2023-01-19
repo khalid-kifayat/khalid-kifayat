@@ -2,8 +2,11 @@
 <p align="center">
  <img src="https://user-images.githubusercontent.com/78950897/207810282-7e969b54-a869-4a61-8a6a-37a90187f581.jpg" alt "Hi">
  
-
- <h2 align="center">👋 Hi, I’m khalid kifayat & Welcome to my Github Account</h2>
+ <h3 align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to Khalid Kifayat profile
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+ 
 </p>
 
 
