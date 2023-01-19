@@ -164,8 +164,8 @@ Inbox me at <a href="https://www.linkedin.com/in/khalid-kifayat/">
  
  </p>
 
-- 👀 I’m currently exploring DevOps tools like, Docker, Kubernetes, Terraform, Terraform, Jenkins, Promethus, Grafana,  and obviously Git 🤠.
-- 🌱 Excellent HandsOn on Linux/Debian (Ubuntu), Shell scripting, Windows OS.                                                                                            
+- 👀 I’m currently doing Hands-On Projects on DevOps tools like, Docker, Kubernetes, Terraform, Terraform, Jenkins, Promethus, Grafana,  and obviously Git 🤠.
+- 🌱 Excellent skills on Linux/Debian (Ubuntu), Shell scripting, Windows OS.                                                                                           
 - 👯 Designing some cool web pages with the help of HTML, CSS, JS.
 - ⚡️ My youtube channel - DevOps with KK - with some of realtime HandsOn Labs. Coudnt make new stuff with time shortage, but will.
 - ❓  You can Ask me about DevOps, Docker, Kubernetes, Ansible, Terraform, Jenkins, Git, HTML, CSS, JS.
