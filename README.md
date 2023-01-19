@@ -23,20 +23,20 @@
 
 
 
-<h1 align="center" >Have an Apps to Deploy? Let's connect:</h1>
+<h2 align="center" >Have an Apps to Deploy? Let's connect:</h2>
 
 
 <div  align="center" gap="20px">
 <a href="https://www.linkedin.com/in/khalid-kifayat/">
-<img width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
+<img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
 </a>
 
  <a href="https://youtube.com/@dwkk">
-<img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=youtube&logoColor=white" />
+<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=youtube&logoColor=white" />
 </a>
 
 <a href="https://github.com/khalid-kifayat">
-<img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
+<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
 </a>
 </div>
 
