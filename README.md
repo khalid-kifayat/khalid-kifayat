@@ -11,7 +11,7 @@
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=4974a5&width=380&height=55&lines=DevOps+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=4974a5&width=450&height=55&lines=DevOps+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 
 </p>
 
