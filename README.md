@@ -16,8 +16,7 @@
 </p>
 
 <p align="center"> 
-  Visitor count<br>
-  <br>
+  Visitor count
   <img src="https://profile-counter.glitch.me/khalid-kifayat/count.svg" />
 </p>
 
