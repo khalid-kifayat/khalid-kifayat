@@ -38,6 +38,9 @@
 <img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
 </a>
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=khalid-kifayat)](https://github.com/ryo-ma/github-profile-trophy)
+
 **About My Introduction:**
 
 I am an DevOps Enthusiast, passionate about developing and deploying production-ready Applications while working with teams of Devops Experts. Proficiency in DevOps, Cloud & SDLC including analysis, design, coding, scripting, testing, automation, version control, documentation, support.<br>
