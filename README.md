@@ -39,6 +39,8 @@
 </a>
 </div>
 
+<img align="left" alt="coding" width="400" src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif"> <img align="right" alt="coding" width="400" src="https://github.com/annfelix/annfelix/blob/main/rrr.gif"> 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=khalid-kifayat)](https://github.com/ryo-ma/github-profile-trophy)
 
 **About My Introduction:**
