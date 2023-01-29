@@ -39,7 +39,7 @@
 </a>
 </div>
 
-<img align="left" alt="coding" width="400" src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif">
+<img align="center" alt="coding" width="600" src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=khalid-kifayat)](https://github.com/ryo-ma/github-profile-trophy)
 
