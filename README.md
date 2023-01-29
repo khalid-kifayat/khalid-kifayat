@@ -70,6 +70,12 @@ Inbox me at <a href="https://www.linkedin.com/in/khalid-kifayat/">
 <br >
 <br />
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalid-kifayat&show_icons=true&locale=en&layout=compact" alt="khalid-kifayat" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalid-kifayat&show_icons=true&locale=en" alt="khalid-kifayat" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid-kifayat&" alt="khalid-kifayat" /></p>
+
 <p align="center">
 	
   [![](https://github-readme-activity-graph.cyclic.app/graph?username=khalid-kifayat&theme=react-dark)](https://github.com/khalid-kifayat/github-readme-activity-graph)
