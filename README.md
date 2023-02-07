@@ -31,7 +31,7 @@
 </a>
 
  <a href="https://youtube.com/@dwkk">
-<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=youtube&logoColor=white" />
+<img  width="70px" src="https://user-images.githubusercontent.com/60597290/152035929-b7f75d38-e1c2-4325-a97e-7b934b8534e2.png" />
 </a>
 
 <a href="https://github.com/khalid-kifayat">
