@@ -35,7 +35,7 @@
 </a>
 
 <a href="https://github.com/khalid-kifayat">
-<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
+<img  width="70px" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" />
 </a>
 </div>
 
