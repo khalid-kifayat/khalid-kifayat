@@ -183,4 +183,3 @@ Inbox me at <a href="https://www.linkedin.com/in/khalid-kifayat/">
 <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/04/21121916/gif-integration-deployment-min.gif"></img>
 </p>
 
-![Snake animation](https://github.com/khalid-kifayat/khalid-kifayat/blob/output/github-contribution-grid-snake.svg)
