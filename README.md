@@ -6,7 +6,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to My Profile, My name is "Khalid Kifayat" 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h3>
- 
+ <p align="center"><img width="80%" alt="Hello, I'm Khalid kifayat. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 </p>
 
 <p align="center">
