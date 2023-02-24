@@ -81,6 +81,7 @@ Inbox me at <a href="https://www.linkedin.com/in/khalid-kifayat/">
   [![](https://github-readme-activity-graph.cyclic.app/graph?username=khalid-kifayat&theme=react-dark)](https://github.com/khalid-kifayat/github-readme-activity-graph)
 </p>
 
+![snake gif](https://github.com/khalid-kifayat/khalid-kifayat/blob/output/github-contribution-grid-snake.gif)
 
 ### DevOps
 
