@@ -76,7 +76,7 @@ Inbox me at <a href="https://www.linkedin.com/in/khalid-kifayat/">
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalid-kifayat&show_icons=true&locale=en" alt="khalid-kifayat" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid-kifayat&" alt="khalid-kifayat" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid-kifayat&theme=algolia" alt="khalid-kifayat" /></p>
 
 <p align="center">
 	
