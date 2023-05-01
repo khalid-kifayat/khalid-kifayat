@@ -15,6 +15,8 @@
 
 </p>
 
+Hello! My name is Khalid Kifayat and I am a DevOps⚙️ enthusiast. I have a keen interest in cloud computing, containerization and automation. I am currently learning and experimenting with various DevOps tools and methodologies, with the goal of improving the software development and deployment process🤖
+
 <p align="center"> 
   Visitor count <br>
   <img src="https://profile-counter.glitch.me/khalid-kifayat/count.svg" />
