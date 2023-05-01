@@ -17,6 +17,8 @@
 
 Hello! My name is Khalid Kifayat and I am a DevOps⚙️ enthusiast. I have a keen interest in cloud computing, containerization and automation. I am currently learning and experimenting with various DevOps tools and methodologies, with the goal of improving the software development and deployment process🤖
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid-kifayat&theme=algolia" alt="khalid-kifayat" /></p>
+
 <p align="center"> 
   Visitor count <br>
   <img src="https://profile-counter.glitch.me/khalid-kifayat/count.svg" />
@@ -75,8 +77,6 @@ Inbox me at <a href="https://www.linkedin.com/in/khalid-kifayat/">
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalid-kifayat&show_icons=true&locale=en&layout=compact" alt="khalid-kifayat" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalid-kifayat&show_icons=true&locale=en" alt="khalid-kifayat" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid-kifayat&theme=algolia" alt="khalid-kifayat" /></p>
 
 <p align="center">
 	
