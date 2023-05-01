@@ -47,9 +47,6 @@ Hello! My name is Khalid Kifayat and I am a DevOps⚙️ enthusiast. I have a ke
 <img align="center" alt="coding" width="800" src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif">
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=khalid-kifayat)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 **About My Introduction:**
 
 I am an DevOps Enthusiast, passionate about developing and deploying production-ready Applications while working with teams of Devops Experts. Proficiency in DevOps, Cloud & SDLC including analysis, design, coding, scripting, testing, automation, version control, documentation, support.<br>
