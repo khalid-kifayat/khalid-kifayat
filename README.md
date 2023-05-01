@@ -186,3 +186,27 @@ Inbox me at <a href="https://www.linkedin.com/in/khalid-kifayat/">
 <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/04/21121916/gif-integration-deployment-min.gif"></img>
 </p>
 
+## 📊 Github Stats (Expand to View) 
+  
+ <details>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+   
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khalid-kifayat&theme=2077" alt="khalid-kifayat" /></p>
+
+</details>
+
+  <details>
+  <summary><b>📈 My Top Languages</b></summary>
+
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khalid-kifayat&theme=aura" alt="khalid-kifayat" 
+  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khalid-kifayat&theme=aura" alt="khalid-kifayat" /></p>
+</details> 
+
+  </details>
+    <details>
+  <summary><b>📈 My Contributions</b></summary>
+   
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalid-kifayat&theme=great_gatsby" alt="khalid-kifayat" /></p>
+ 
+
+</details>
