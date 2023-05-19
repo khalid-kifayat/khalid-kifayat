@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src="(https://github.com/khalid-kifayat/khalid-kifayat/assets/78950897/1168a05d-3f8e-4582-bfa7-f134adf68ed9)">
+ <img src="https://github.com/khalid-kifayat/khalid-kifayat/assets/78950897/1168a05d-3f8e-4582-bfa7-f134adf68ed9">
  
  <h3 align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Welcome to My Profile" 
