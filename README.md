@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src="[https://user-images.githubusercontent.com/78950897/161bfd74-7b0b-4226-9c06-b5204f530807]" alt "Hi">
+ <img src="![LinkedIn Banner - May 23 Git](https://github.com/khalid-kifayat/khalid-kifayat/assets/78950897/1168a05d-3f8e-4582-bfa7-f134adf68ed9) alt "Hi">
  
  <h3 align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Welcome to My Profile" 
