@@ -34,6 +34,10 @@ Hello! My name is Khalid Kifayat and I am a DevOps⚙️ enthusiast. I have a ke
 
 <h2 align="center" >Have an Apps to Deploy? Let's connect:</h2>
 
+<div  align="center" gap="20px">
+<a href="https://linktr.ee/khalid.kifayat">
+<img width="70px" src="https://github.com/khalid-kifayat/khalid-kifayat/assets/78950897/71905b3c-b0f8-4c49-81f8-8328945938e0" />
+</a>
 
 <div  align="center" gap="20px">
 <a href="https://www.linkedin.com/in/khalid-kifayat/">
