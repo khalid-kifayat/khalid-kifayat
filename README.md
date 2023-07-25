@@ -105,8 +105,6 @@ I am an DevOps Enthusiast, passionate about developing and deploying production-
   [![](https://github-readme-activity-graph.cyclic.app/graph?username=khalid-kifayat&theme=react-dark)](https://github.com/khalid-kifayat/github-readme-activity-graph)
 </p>
 
-![snake gif](https://github.com/khalid-kifayat/khalid-kifayat/blob/output/github-contribution-grid-snake.gif)
-
 ### DevOps
 
 ![test](https://github.com/khalid-kifayat/khalid-kifayat/assets/78950897/1073378e-bdfd-474c-94a1-d3f3fdbf6979)
