@@ -18,7 +18,9 @@ Leveraging my background in computer science and passion for cybersecurity to dr
 Hello! My name is Khalid Kifayat and I am a DevOps⚙️ enthusiast. I have a keen interest in cloud computing, containerization, automation with various DevOps tools and methodologies with the goal of improving the DEV SEC OPS process in deploying ORG Apps🤖.
 
 💬 Ask me about Docker, Kubernetes, DevSecOps, Cloud Security, Incident Response, Threat Intelligence.<br>
-📫 How to reach me khalid.kifayat@gmail.com <br>
+📫 Inbox me at <a href="https://www.linkedin.com/in/khalid-kifayat/">
+<img width="30px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
+</a> OR Write to me at khalid.kifayat@gmail.com<br>
 ⚡ Fun fact I possess a penchant for humor that I believe rivals that of the most seasoned comedians. 😄<br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid-kifayat&theme=algolia" alt="khalid-kifayat" /></p>
@@ -68,12 +70,6 @@ I am an DevOps Enthusiast, passionate about developing and deploying production-
 • Project Management and Build Tool: Apache Maven.<br> 
 • OS: Linux, Windows.<br>
 • OS Flavours: RHEL, CENTOS, UBUNTU.<br>
-
-Inbox me at <a href="https://www.linkedin.com/in/khalid-kifayat/">
-<img width="30px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
-</a> OR Write to me at khalid.kifayat@gmail.com<br>
-<br >
-<br />
 
 ## 📊 Github Stats (Expand to View) 
   
