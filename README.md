@@ -15,10 +15,10 @@ Leveraging my background in computer science and passion for cybersecurity to dr
 
 </p>
 
-Hello! My name is Khalid Kifayat and I am a DevOps⚙️ enthusiast. I have a keen interest in cloud computing, containerization and automation. I am currently learning and experimenting with various DevOps tools and methodologies, with the goal of improving the DEV SEC OPS process in deploying ORG Apps🤖.
+Hello! My name is Khalid Kifayat and I am a DevOps⚙️ enthusiast. I have a keen interest in cloud computing, containerization, automation with various DevOps tools and methodologies with the goal of improving the DEV SEC OPS process in deploying ORG Apps🤖.
 
 💬 Ask me about Docker, Kubernetes, DevSecOps, Cloud Security, Incident Response, Threat Intelligence.
-📫 How to reach me mriceflame@protonmail.com
+📫 How to reach me khalid.kifayat@gmail.com
 ⚡ Fun fact I possess a penchant for humor that I believe rivals that of the most seasoned comedians. 😄
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid-kifayat&theme=algolia" alt="khalid-kifayat" /></p>
