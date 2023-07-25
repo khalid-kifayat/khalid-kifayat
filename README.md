@@ -8,14 +8,18 @@
 </h3>
 
 </p>
-
+Leveraging my background in computer science and passion for cybersecurity to drive innovation in DevOps and Cloud Computing.
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=4974a5&width=380&height=55&lines=DevOps+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 
 </p>
 
-Hello! My name is Khalid Kifayat and I am a DevOps⚙️ enthusiast. I have a keen interest in cloud computing, containerization and automation. I am currently learning and experimenting with various DevOps tools and methodologies, with the goal of improving the software development and deployment process🤖
+Hello! My name is Khalid Kifayat and I am a DevOps⚙️ enthusiast. I have a keen interest in cloud computing, containerization and automation. I am currently learning and experimenting with various DevOps tools and methodologies, with the goal of improving the DEV SEC OPS process in deploying ORG Apps🤖.
+
+💬 Ask me about Docker, Kubernetes, DevSecOps, Cloud Security, Incident Response, Threat Intelligence.
+📫 How to reach me mriceflame@protonmail.com
+⚡ Fun fact I possess a penchant for humor that I believe rivals that of the most seasoned comedians. 😄
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid-kifayat&theme=algolia" alt="khalid-kifayat" /></p>
 
