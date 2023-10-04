@@ -28,7 +28,8 @@ Hello! My name is Khalid Kifayat and I am a DevOps⚙️ enthusiast. I have a ke
   <img src="https://profile-counter.glitch.me/khalid-kifayat/count.svg" />
 </p>
 
-
+<br>
+<br>
 
 <h2 align="center" >Have an Apps to Deploy? Let's connect:</h2>
 
