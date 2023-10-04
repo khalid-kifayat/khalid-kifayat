@@ -23,10 +23,6 @@ Hello! My name is Khalid Kifayat and I am a DevOps⚙️ enthusiast. I have a ke
 📫 Inbox me at <a href="https://www.linkedin.com/in/khalid-kifayat/">
 <img width="30px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
 </a> OR Write to me at khalid.kifayat@gmail.com<br>
-⚡ Fun fact I possess a penchant for humor that I believe rivals that of the most seasoned comedians. 😄<br>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid-kifayat&theme=algolia" alt="khalid-kifayat" /></p>
-
 <p align="center"> 
   Visitor count <br>
   <img src="https://profile-counter.glitch.me/khalid-kifayat/count.svg" />
