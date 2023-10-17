@@ -8,7 +8,7 @@
 </h3>
 
 </p>
-Leveraging my background in computer science and passion for cybersecurity to drive innovation in DevOps and Cloud Computing.
+Leveraging my background in computer science and passion for Cloud DevOps & Ai-Chatbot development.
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=4974a5&width=380&height=55&lines=DevOps+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
@@ -17,7 +17,7 @@ Leveraging my background in computer science and passion for cybersecurity to dr
 
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="500" style="max-width: 100%;">
 
-Hello! My name is Khalid Kifayat and I am a DevOps⚙️ enthusiast. I have a keen interest in cloud computing, containerization, automation with various DevOps tools and methodologies with the goal of improving the DEV SEC OPS process in deploying ORG Apps🤖.
+Hello! My name is Khalid Kifayat and I am a DevOps Engineer & Ai-Chatbot Developer. I have a keen interest in cloud computing, containerization, automation with various DevOps tools, Kubernetes with the goal of improving the DEV SEC OPS process in deploying ORG Apps🤖. Also i create/deploy Ai-chatbots in Google Dialogueflow, Amazon Alexa using python, streamlit, llama2, Mistral-7B etc. 
 
 💬 Ask me about Docker, Kubernetes, DevSecOps, Cloud Security, Incident Response, Threat Intelligence.<br>
 📫 Inbox me at <a href="https://www.linkedin.com/in/khalid-kifayat/">
@@ -54,20 +54,7 @@ Hello! My name is Khalid Kifayat and I am a DevOps⚙️ enthusiast. I have a ke
 **About My Introduction:**
 
 I am an DevOps Enthusiast, passionate about developing and deploying production-ready Applications while working with teams of Devops Experts. Proficiency in DevOps, Cloud & SDLC including analysis, design, coding, scripting, testing, automation, version control, documentation, support.<br>
-• Containerization: Docker.<br>
-• Container Orchestration: Kubernetes.<br>
-• Configuration Management: Ansible.<br>
-• Infrastructure as a Code: Terraform.<br>
-• Cloud: Familiar with AWS concepts.<br>
-• CI / Deployment: Jenkins.<br>
-• Scripting/Languages: Bash Shell.<br>
-• Version Control: Git, Github.<br>
-• Programming Languages: Python and Python for DevOps.<br>
-• Monitoring: Prometheus, Grafana.<br>
-• Continuous Inspection Tool: SonarQube.<br>
-• Project Management and Build Tool: Apache Maven.<br> 
-• OS: Linux, Windows.<br>
-• OS Flavours: RHEL, CENTOS, UBUNTU.<br>
+Also i create/deploy Ai-chatbots in Google Dialogueflow, Amazon Alexa using python, streamlit, llama2, Mistral-7B etc.
 
 ## 📊 Github Stats (Expand to View) 
   
@@ -198,7 +185,7 @@ I am an DevOps Enthusiast, passionate about developing and deploying production-
  </p>
 
 - 👀 I’m currently doing Hands-On Projects on DevOps tools like, Docker, Kubernetes, Terraform, Terraform, Jenkins, Promethus, Grafana,  and obviously Git 🤠.
-- 🌱 Excellent skills on Linux/Debian (Ubuntu), Shell scripting, Windows OS.                                                                                           
+- 🌱 Ai-chatbots in Google Dialogueflow, Amazon Alexa using python, streamlit, llama2, Mistral-7B etc.                                                                                           
 - 👯 Designing some cool web pages with the help of HTML, CSS, JS.
 - ⚡️ My youtube channel - DevOps with KK - with some of realtime HandsOn Labs. Coudnt make new stuff with time shortage, but will.
 - ❓  You can Ask me about DevOps, Docker, Kubernetes, Ansible, Terraform, Jenkins, Git, HTML, CSS, JS.
