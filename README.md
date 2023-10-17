@@ -1,7 +1,7 @@
 
 <p align="center">
- <img src="https://github.com/khalid-kifayat/khalid-kifayat/assets/78950897/1168a05d-3f8e-4582-bfa7-f134adf68ed9">
- 
+ <img src="https://github.com/khalid-kifayat/khalid-kifayat/assets/78950897/aea12896-136f-4597-b2d1-ef4b9c6809ab">
+
  <h3 align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Welcome to My Profile" 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
