@@ -17,7 +17,7 @@ Leveraging my background in computer science and passion for Cloud DevOps & Ai-C
 Hello! My name is Khalid Kifayat and I am a DevOps Engineer & Ai-Chatbot Developer. I have a keen interest in cloud computing, containerization, automation with various DevOps tools, Kubernetes with the goal of improving the DEV SEC OPS process in deploying ORG Apps🤖. Also i create/deploy Ai-chatbots in Google Dialogueflow, Amazon Alexa using python, streamlit, llama2, Mistral-7B etc. 
 
 💬 Ask me about Docker, Kubernetes, DevSecOps, Cloud Security, Incident Response, Threat Intelligence.<br>
-📫 Inbox me at <a href="https://icons8.com/icon/98960/linkedin">
+📫 Inbox me at <a href="https://www.flaticon.com/free-icon/linkedin-logo_61109?term=linkedin&page=1&position=3&origin=tag&related_id=61109">
 <img width="30px" src="" />
 </a> OR Write to me at khalid.kifayat@gmail.com<br>
 <p align="center"> 
